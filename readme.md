@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/FERDIZ-afk/botvira/main/temp/IMG-20201204-WA0265.jpg" width="440" height="540"/>
+<img src="https://github.com/FERDIZ-afk/FERDIZ-afk/blob/main/temp/IMG_20201211_233247_230.jpg" width="440" height="540"/>
 
 <p align="center">
 <p align="center">
