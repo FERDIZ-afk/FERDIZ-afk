@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://github.com/FERDIZ-afk/FERDIZ-afk/blob/main/temp/IMG_20201211_233247_230.jpg" width="440" height="540"/>
+<img src="https://github.com/FERDIZ-afk/FERDIZ-afk/blob/main/temp/IMG_20201211_233247_230.jpg" width="340" height="440"/>
 
 <p align="center">
 <p align="center">
