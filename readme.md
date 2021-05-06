@@ -5,6 +5,7 @@
 <p align="center">
 <p align="center">
 <a href="#"><img title="FERDIZ-afk" src="https://img.shields.io/badge/FERDIZ_afk-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FFERDIZ-afk" alt="Hits">
 
 <p align="center">
 <a href="https://ferdiz-api.herokuapp.com/"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FERDIZ afk-orange.svg?style=for-the-badge&logo=github"></a>
