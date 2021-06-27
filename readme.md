@@ -27,7 +27,7 @@
 
 ___
 
-### [`👇  INTRO MY SELF`](https://fxc7-api.herokuapp.com)
+### [`👇 MY biodata`](https://ferdiz-afk.herokuapp.com)
 ```
 Intro = {
 "Name": "FERDI ZAKY LUTHFI ARIDHO",
