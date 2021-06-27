@@ -12,3 +12,9 @@
 <a href="https://ferdiz-api.herokuapp.com/"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FERDIZ afk-orange.svg?style=for-the-badge&logo=github"></a>
 
 </p>
+
+<h3>Languages and Tools:</h3>
+<br>
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=FERDIZ-afk&show_icons=true&locale=en&layout=compact&theme=radical" alt="FERDIZ-afk" /></p>
+
+<p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=FERDIZ-afk&show_icons=true&locale=en&theme=radical" alt="FERDIZ-afk" /></p>
