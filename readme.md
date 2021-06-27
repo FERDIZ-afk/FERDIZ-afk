@@ -54,6 +54,7 @@ Hal itu saya lakukan untuk mengisi kekosongan diwaktu senggang saya.
 
 <h3>Languages skill :</h3>
 <br>
-<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=FERDIZ-afk&show_icons=true&locale=en&layout=compact&theme=radical" alt="FERDIZ-afk" /></p>
+<!--p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=FERDIZ-afk&show_icons=true&locale=en&layout=compact&theme=radical" alt="FERDIZ-afk" /></p-->
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=FERDIZ-afk&show_icons=true&theme=radical" alt="FERDIZ-afk" /></p>
 
 <p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=FERDIZ-afk&show_icons=true&locale=en&theme=radical" alt="FERDIZ-afk" /></p>
