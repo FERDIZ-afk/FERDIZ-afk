@@ -30,8 +30,9 @@ ___
 ### [`👇 MY biodata`](https://ferdiz-afk.herokuapp.com)
 ```
 Intro = {
-"Name": "FERDI ZAKY LUTHFI ARIDHO",
-"Status": "seorang penyendiri, tidak mempunyai teman",
+"Full Name": "FERDI ZAKY LUTHFI ARIDHO",
+"Nick name": "FERDI Z",
+"Status": "seorang penyendiri, hanya memiliki teman virtual/online, tidak mempunyai teman real live",
 "Address": "Pacitan, Jawa Timur, Indonesia",
 "Age": "17 Years Old",
 "Birthday": "02-07-2004"
