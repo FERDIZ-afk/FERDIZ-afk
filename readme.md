@@ -64,10 +64,12 @@ Hal itu saya lakukan untuk mengisi kekosongan diwaktu senggang saya.
 <p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=FERDIZ-afk&show_icons=true&locale=en&theme=radical" alt="FERDIZ-afk" /></p>
 
 # Donate
-<p align="center"><img src="https://svgur.com/i/Vtt.svg">
+<p align="center" width=100%><img src="https://svgur.com/i/Vtt.svg">
+
+
 
 </p>
-<ul><li><a href="https://saweria.co/Ferdizafk">Saweria</a><li><a href="https://wa.me/6283172366463">Whatsapp</a></li><li><a href="https://trakteer.id/FERDIZ-AFK/tip">Trakteer</a></li></ul>
+<ul><li><a href="https://saweria.co/Ferdizafk">Saweria</a><li><a href="https://link.dana.id/qr/26sifccg">DANA</a></li><li><a href="https://trakteer.id/FERDIZ-AFK/tip">Trakteer</a></li></ul>
 
 Here are some ideas to get you started:
 
