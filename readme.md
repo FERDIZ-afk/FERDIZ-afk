@@ -28,7 +28,7 @@
 
 ___
 
-### [`👇 MY biodata`](https://ferdiz-afk.herokuapp.com)
+### [`👇 MY biodata`](https://oni-chan.my.id/)
 ```
 Intro = {
 "Full Name": "FERDI ZAKY LUTHFI ARIDHO",
