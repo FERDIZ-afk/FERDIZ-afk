@@ -6,7 +6,7 @@
 
   <audio autoplay="autoplay" hidden="hidden" src="https://b.top4top.io/m_1889nvfeu8.mp3"></audio>
 <p align='center'>
-        <!img src="https://avatarfiles.alphacoders.com/108/thumb-108886.gif" alt="FERDI Z-AFK" width="150" class="rounded-circle img-thumbnail" />
+       <!--<img src="https://avatarfiles.alphacoders.com/108/thumb-108886.gif" alt="FERDI Z-AFK" width="150" class="rounded-circle img-thumbnail" /> -->
         <br>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=FERDIZ-afk.FERDIZ-afk??style=for-the-badge&logo=appveyor"></a><br>
   <a href="https://github.com/FERDIZ-afk"><img src="https://cardivo.vercel.app/api?name=FERDIZ-AFK&description=Hai,%20saya%20FERDI%20dan%20saya%20hanya%20seorang%20programmer%20pemula.%20dan%20saya%20tidak%20punya%20seorang%20teman,saya%20sangat%20sedih.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2%20%20tanggal%2020%20maret%20aku%20menemukan%20seseorang%20yang%20bisa%20membuat%20ku%20bahagia.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ferdiz_afk&github=FERDIZ-afk&pattern=leaf&colorPattern=%23eaeaea" /><a>
