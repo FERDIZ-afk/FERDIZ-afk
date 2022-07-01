@@ -35,7 +35,7 @@ Intro = {
 "Nick name": "FERDI Z",
 "Status": "seorang penyendiri, hanya memiliki teman virtual/online, tidak mempunyai teman real live",
 "Address": "Pacitan, Jawa Timur, Indonesia",
-"Age": "17 Years Old",
+"Age": "18 Years Old",
 "Birthday": "02-07-2004"
 }
 ```
